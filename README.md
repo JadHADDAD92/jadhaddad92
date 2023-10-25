@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadhaddad92" alt="jadhaddad92" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jad__haddad" target="blank"><img src="https://img.shields.io/twitter/follow/jad__haddad?logo=twitter&style=for-the-badge" alt="jad__haddad" /></a> </p>
 
 - 📫 How to reach me **jad.haddad92@gmail.com**
 
